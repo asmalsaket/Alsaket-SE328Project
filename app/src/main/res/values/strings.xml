@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Asma</string>
+
+    <string-array name="city">
+        <item>Berlin</item>
+        <item>Toronto</item>
+        <item>Hamburg</item>
+    </string-array>
+
+</resources>
